@@ -1,3 +1,3 @@
 ---
-Title: Welcome to Muhamamd Ali blog!
+Title: Welcome to Muhammad Ali blog!
 ---
